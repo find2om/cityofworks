@@ -293,7 +293,7 @@ div#preloader {
 
 .section-headline h2::before {
   width:6px; height:62px;
-  background:url(../img/border.png) no-repeat;
+  
   content: "";
   left: 0;
   margin: -104px auto 0;
